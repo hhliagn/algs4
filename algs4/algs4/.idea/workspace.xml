@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/66/MAX/jumax-operation-user-service" value="PREVIEW" />
+        <entry key="D:/66/workspace/MAX/jumax-ecommerce-ext" value="PREVIEW" />
+        <entry key="D:/66/workspace/MAX/jumax-forum-mall-wechat-api" value="PREVIEW" />
+        <entry key="D:/66/workspace/MAX/jumax-forum-operation-admin-api" value="PREVIEW" />
+        <entry key="D:/66/workspace/MAX/jumax-mall" value="PREVIEW" />
+        <entry key="D:/66/workspace/MAX/jumax-member-application" value="PREVIEW" />
+        <entry key="D:/66/workspace/MAX/jumax-operation" value="PREVIEW" />
+        <entry key="D:/66/workspace/MAX/jumax-operation-user-service" value="PREVIEW" />
+        <entry key="D:/66/workspace/MAX/jumax-permission-service" value="PREVIEW" />
+        <entry key="D:/66/workspace/MAX/jumax-sale-order-application" value="PREVIEW" />
+        <entry key="D:/66/workspace/data-transfer" value="PREVIEW" />
+        <entry key="D:/66/workspace/jumax-club-mall-web-api" value="PREVIEW" />
+        <entry key="D:/66/workspace/jumax-club-operation-admin-api" value="PREVIEW" />
+        <entry key="D:/66/workspace/jumax-club-sale-order-application" value="PREVIEW" />
+        <entry key="D:/66/workspace/jumax-mall" value="PREVIEW" />
+        <entry key="D:/66/workspace/jumax-member-application" value="PREVIEW" />
+        <entry key="D:/66/workspace/jumax-promotion-application" value="PREVIEW" />
+        <entry key="D:/66/workspace/jumax-sale-order-application" value="PREVIEW" />
+        <entry key="D:/66/workspace/jumax-stats-report-sync-data" value="PREVIEW" />
+        <entry key="D:/66/workspace/jumax-tool-service" value="PREVIEW" />
+        <entry key="D:/66/workspace/mall/jumax-mall" value="PREVIEW" />
+        <entry key="D:/66/workspace/operation-user/jumax-operation-user-service" value="PREVIEW" />
+        <entry key="D:/66/workspace/operation/jumax-operation" value="PREVIEW" />
+        <entry key="D:/66/workspace/smart-spring-boot-web" value="PREVIEW" />
+        <entry key="D:/66/workspace/user-service" value="PREVIEW" />
+        <entry key="D:/66/workspace/user-service/jumax-operation-user-service" value="PREVIEW" />
+        <entry key="D:/66/workspace/user-service2/jumax-operation-user-service" value="PREVIEW" />
+        <entry key="D:/66/workspace/wechat-api/jumax-forum-mall-wechat-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../D2019111/jumax-operation" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../D2019111/jumax-promotion-application" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../D2019117/jumax-operation" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../D2019119/jumax-mall" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../D2019119/jumax-operation" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../D2019119/jumax-sale-order-application" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../max/jumax-forum-mall-web-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../max/jumax-forum-mall-wechat-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../max/jumax-forum-operation-admin-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../max/jumax-mall" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../max/jumax-operation" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../max/jumax-operation-user-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../max/jumax-sale-order-application" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../max/jumax-stats-report" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../maxdev/jumax-operation" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../maxdev/jumax-operation-user-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../maxdev/jumax-sale-order-application" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../maxdev/jumax-stats-report" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../maxme/jumax-operation" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../maxme/jumax-operation-user-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../maxme/jumax-sale-order-application" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../maxme/jumax-stats-report" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../maxshanghai/jumax-mall" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../maxshanghai/jumax-operation" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../maxshanghai/jumax-sale-order-application" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../maxshanghai/jumax-stats-report" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="265" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/66/workspace" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
